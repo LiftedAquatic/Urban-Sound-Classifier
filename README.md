@@ -5,9 +5,9 @@ This project was a fascinating experience. After months of charting the unfamili
 
 Link to dataset: https://urbansounddataset.weebly.com/urbansound8k.html
 
-Thank you to Mick Smales. He worked with the same dataset and the article below helped serve as a guide. I used pieces of his code in my preprocessing-modeling notbook. Article: https://mikesmales.medium.com/sound-classification-using-deep-learning-8bc2aa1990b7 
+Thank you to Mike Smales. He worked with the same dataset and the article below helped serve as a guide. I used pieces of his code in my preprocessing-modeling notebook. Article: https://mikesmales.medium.com/sound-classification-using-deep-learning-8bc2aa1990b7 
 
-Thank you to Papia Nandi. Her article on sound classification helped me quite a bit. I used pieces of her code as well. 
+Thank you to Papia Nandi. Her article on sound classification served as guide. I used pieces of her code in my preprocessing-modeling notebook. 
 Article: https://towardsdatascience.com/cnns-for-audio-classification-6244954665ab
 
 Thank you to my mentor Jeremy Cunningham for the advice and encouragement. 
